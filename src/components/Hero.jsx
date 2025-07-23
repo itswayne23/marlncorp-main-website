@@ -30,7 +30,7 @@ function Hero() {
       </p>
 
       {/* Call-to-action buttons */}
-      <div className="mt-8 flex gap-4 justify-center">
+      <div data-aos="fade-up" data-aos-delay="200" className="mt-8 flex gap-4 justify-center">
         <button className="bg-black text-white px-6 py-3 rounded border-none font-medium hover:bg-gray-900 transition">
           Contact Us
         </button>
