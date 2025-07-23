@@ -4,6 +4,7 @@ function Hero() {
       {/* Large MARLN with image fill */}
       <div className="w-full flex justify-center">
         <h1
+          data-aos="zoom-in-up"
           className="
             text-[10vw] md:text-[24vw] 
             font-extrabold uppercase tracking-tight 
