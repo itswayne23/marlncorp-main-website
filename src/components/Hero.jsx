@@ -21,7 +21,7 @@ function Hero() {
       </div>
 
       {/* Subtitle */}
-      <p className="font-inter mt-8 text-gray-400 text-3xl">
+      <p data-aos="fade-up" className="font-inter mt-8 text-gray-400 text-3xl">
         Driving Business sucess through
         <br />
         <span className="font-inter text-black">
